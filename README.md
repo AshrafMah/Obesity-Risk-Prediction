@@ -1,4 +1,4 @@
-# $$Multi-Class Prediction of Obesity Risk$$
+# $$Multi-Class \space Prediction \space of \space Obesity \space Risk$$
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3RlY3NqZ2tqbjh1ZnQ4dWx3d3BldmluYXMzamlvYzUxbXNxcWltZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wdFph4zhLiBPi/giphy.gif" width="600"/>
 </div>
